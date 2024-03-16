@@ -10,6 +10,7 @@
 click==8.1.7
 importlib-metadata<8,>=1.4
 docx
+dlib
 PyPDF2
 firebase_admin
 numpy
