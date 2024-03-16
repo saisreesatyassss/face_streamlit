@@ -1,6 +1,6 @@
 docx
 PyPDF2
-tempfile
+tempfile=3.5
 firebase_admin
 numpy
 streamlit
