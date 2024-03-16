@@ -1,0 +1,9 @@
+docx
+PyPDF2
+tempfile
+firebase_admin
+numpy
+streamlit
+os
+face_recognition
+cv2
