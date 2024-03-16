@@ -1,9 +1,18 @@
+# docx
+# PyPDF2
+# tempfile
+# firebase_admin
+# numpy
+# streamlit
+# os
+# face_recognition
+# cv2
+click==8.1.7
+importlib-metadata<8,>=1.4
 docx
 PyPDF2
-tempfile=3.5
 firebase_admin
 numpy
 streamlit
-os
+opencv-python-headless
 face_recognition
-cv2
